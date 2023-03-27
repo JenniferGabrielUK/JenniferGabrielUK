@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning C++ OOP and MySQL<br>🎯 Goals: To secure my first C++ employment opportunity! <br>🎲 Fun fact: High heels were first designed for men!</p>
+<align="left">📚 I'm currently learning C++ OOP and MySQL<br>🎯 Goals: To secure my first C++ employment opportunity! <br>🎲 Fun fact: High heels were first designed for men!<>
 
 ###
 
