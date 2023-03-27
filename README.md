@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋 I'm Jenny Junior C++ Developer</h1>
+<h1 align="left">Hi 👋 I'm Jenny a Junior C++ Developer</h1>
 
 ###
 
