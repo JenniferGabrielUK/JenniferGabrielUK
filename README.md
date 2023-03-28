@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">Welcome to my GitHub page, this is where I upload all my C++ Portfolio projects, to showcase my development as a programmer.</p>
+<p align="left">Welcome to my GitHub page, this is where I upload all my C++ Portfolio projects, to showcase my development as a programmer.
+You can find my LinkedIn profile here: https://www.linkedin.com/in/jennifer-gabriel-software-engineer/ check it out!</p>
 
 ###
 
